@@ -7,3 +7,5 @@ Aspiring Software Engineer 💻 | Cybersecurity Enthusiast 🔒 | 1337 Coding Sc
 # 🚀 Learning Journey
 
 Welcome to my Learning Journey at 42 School — where passion meets innovation, and self-driven learning propels growth. I’m on an exciting path to becoming a skilled software engineer with a deep interest in cybersecurity, honing my craft in one of the world’s most unique and challenging coding environments.
+## Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zero-brother0)](https://github.com/Zero-brother0)
