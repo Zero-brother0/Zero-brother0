@@ -1,1 +1,1 @@
-https://badge.mediaplus.ma/greenbinary/mzougari
+<img href="https://badge.mediaplus.ma/greenbinary/mzougari" />
