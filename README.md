@@ -3,8 +3,6 @@
 [![mzougari's 42 stats](https://badge.mediaplus.ma/binary/mzougari)](https://github.com/oakoudad/badge42)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Hello World, I'm Mohamed Zougari 👋
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Software%20Engineer%20&%20Security&fontSize=50" width="100%" />
 </p>
