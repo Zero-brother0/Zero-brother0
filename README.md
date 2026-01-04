@@ -3,9 +3,6 @@
 [![mzougari's 42 stats](https://badge.mediaplus.ma/binary/mzougari)](https://github.com/oakoudad/badge42)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Software%20Engineer%20&%20Security&fontSize=50" width="100%" />
-</p>
 
 ### 🚀 About Me
 I am an aspiring **Software Engineer**, **Cybersecurity Specialist**, and **AI Enthusiast** currently honing my craft at **[1337 Coding School](https://1337.ma/)** (part of the global **42 Network**). I thrive on solving complex problems through low-level programming and intelligent systems.
