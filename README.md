@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Mzougari (AKA ZERO)
-Aspiring Software Engineer 💻 | Cybersecurity Enthusiast 🔒 | 1337 Coding School Student 🎓
+# Hello World, I'm Mohamed Zougari 👋 (AKA ZERO)
 
 [![mzougari's 42 stats](https://badge.mediaplus.ma/binary/mzougari)](https://github.com/oakoudad/badge42)
 
@@ -48,7 +47,4 @@ I am an aspiring **Software Engineer**, **Cybersecurity Specialist**, and **AI E
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zero-brother0&show_icons=true&theme=dark)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
