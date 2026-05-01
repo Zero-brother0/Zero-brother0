@@ -7,7 +7,7 @@
 ### 🚀 About Me
 I am an aspiring **Software Engineer**, **Cybersecurity Specialist**, and **AI Enthusiast** currently honing my craft at **[1337 Coding School](https://1337.ma/)** (part of the global **42 Network**). I thrive on solving complex problems through low-level programming and intelligent systems.
 
-- 🎓 Currently mastering the **C/C++** curriculum and peer-learning at 1337.
+- 🎓 Currently mastering the **C/C++/python** curriculum and peer-learning at 1337.
 - 🛡️ Passionate about **Penetration Testing** and **Secure Coding**.
 - 🤖 Exploring the intersection of **Artificial Intelligence** and automated security.
 - 💡 Believer in the "Pool" (Piscine) mindset: Learning how to learn.
