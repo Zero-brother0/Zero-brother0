@@ -1,5 +1,5 @@
-                                                                                                      # Hello World, I'm Mohamed Zougari 👋  
-                                                                                              ![UM6P](https://img.shields.io/badge/UM6P-Software%20Engineering%20Student-1F8A70?style=for-the-badge)
+# Hello World, I'm Mohamed Zougari 👋 
+![UM6P](https://img.shields.io/badge/UM6P-Software%20Engineering%20Student-1F8A70?style=for-the-badge)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🚀 About Me
